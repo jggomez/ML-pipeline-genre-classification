@@ -49,6 +49,13 @@ The final notebook consolidates the entire workflow into a single, reusable **Sc
 
 ---
 
+## 😎  Try it! 
+
+[Demo Link](https://huggingface.co/spaces/jggomez/Genre-classification)
+
+![Screenshot 2025-06-10 at 10 56 10 p m](https://github.com/user-attachments/assets/5aaed0e1-0b6b-407d-a9c9-eba30f3efd22)
+
+
 ## 🛠️ Getting Started
 
 To get this project running on your local machine, follow these steps.
